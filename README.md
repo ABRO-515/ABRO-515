@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Rasil Abro</h1>
-<h3 align="center">Front-End Developer | Creative Technologist | Web3 Explorer</h3>
+<h3 align="center">💻 Full-Stack Developer | 🔗 Blockchain Innovator | 🌐 Web3 Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=650&lines=Code.+Build.+Deploy.;Blockchain+%26+Web3+Ready;Smart+Contracts+and+DApps;Always+curious%2C+always+building" alt="Typing SVG" />
 </p>
 
 
-
 ---
 
 ### 🧠 About Me
 
--💻 I’m a Full-Stack + Blockchain Developer turning ideas into scalable web & DApps.
--💡 Love working with React, Next.js, Three.js, and smart contracts on Ethereum.
--🌐 Exploring the future of Web3, NFTs, and decentralized tech.
--🔤 Tech I use daily: JavaScript, TypeScript, Solidity, Node.js.
--🚀 Constantly learning, building, and experimenting with creative coding.
+<ul>
+  <li>💻 I’m a Full-Stack + Blockchain Developer turning ideas into scalable web & DApps.</li>
+  <li>💡 Love working with React, Next.js, Three.js, and smart contracts on Ethereum.</li>
+  <li>🌐 Exploring the future of Web3, NFTs, and decentralized tech.</li>
+  <li>🔤 Tech I use daily: JavaScript, TypeScript, Solidity, Node.js.</li>
+  <li>🚀 Constantly learning, building, and experimenting with creative coding.</li>
+</ul>
 
 ---
 
