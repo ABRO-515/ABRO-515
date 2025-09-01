@@ -11,11 +11,11 @@
 
 ### 🧠 About Me
 
-💻 I’m a Full-Stack + Blockchain Developer turning ideas into scalable web & DApps.
-💡 Love working with React, Next.js, Three.js, and smart contracts on Ethereum.
-🌐 Exploring the future of Web3, NFTs, and decentralized tech.
-🔤 Tech I use daily: JavaScript, TypeScript, Solidity, Node.js.
-🚀 Constantly learning, building, and experimenting with creative coding.
+-💻 I’m a Full-Stack + Blockchain Developer turning ideas into scalable web & DApps.
+-💡 Love working with React, Next.js, Three.js, and smart contracts on Ethereum.
+-🌐 Exploring the future of Web3, NFTs, and decentralized tech.
+-🔤 Tech I use daily: JavaScript, TypeScript, Solidity, Node.js.
+-🚀 Constantly learning, building, and experimenting with creative coding.
 
 ---
 
